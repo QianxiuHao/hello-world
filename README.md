@@ -1,2 +1,2 @@
 # hello-world
-just do it
+Hi,humans!
